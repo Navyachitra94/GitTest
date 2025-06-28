@@ -1,6 +1,3 @@
-navya19794@gmail.com
-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
-
 Git Commands
 
 Step 1 : Create a folder and Open Git Bash/CMD and to the folder location.
@@ -26,6 +23,7 @@ Step 8 : git remote add origin  git remote add origin https://github.com/DEEPAKK
 Step 9  : git remote show Origin 
 
 Step 10 : git push -u origin master
+
 
 Step 1 : Check if git is already installed.
 git --version
@@ -71,10 +69,3 @@ Step 8 : git remote add origin  git remote add origin https://github.com/DEEPAKK
 Step 9  : git remote show Origin 
 
 Step 10 : git push -u origin master
-
-
-
-
-
-
-
