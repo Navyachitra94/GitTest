@@ -1,2 +1,80 @@
 navya19794@gmail.com
 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
+
+Git Commands
+
+Step 1 : Create a folder and Open Git Bash/CMD and to the folder location.
+
+Step 2 : Run Commands
+
+git config --global user.email "yourGithubemialid"
+git config --global user.name "YourGitHubUserName"
+
+
+Step 3 : Initialize the Git git init
+
+Step 4 : Add 1 file
+
+Step 5 : git status
+
+Step 6 : git commit -m "commit message"
+
+Step 7 : git status
+
+Step 8 : git remote add origin  git remote add origin https://github.com/DEEPAKKAMDE/JavaTrainingMorningBatch.git
+
+Step 9  : git remote show Origin 
+
+Step 10 : git push -u origin master
+
+Step 1 : Check if git is already installed.
+git --version
+
+Step 2 : Download the Git Installer from https://git-scm.com/downloads/win
+
+Step 3 : Run the Installer and Install Git
+
+Step 4 : Check if git is installed git --version
+
+
+
+Create GitHub Account.
+
+Step 1 :  Go to the https://github.com/ and Sign up
+Step 2 : Login into the GitHub
+Step 3 : Create a Repository.
+
+
+
+Git Commands
+
+Step 1 : Create a folder and Open Git Bash/CMD and to the folder location.
+
+Step 2 : Run Commands
+
+git config --global user.email "yourGithubemialid"
+git config --global user.name "YourGitHubUserName"
+
+
+Step 3 : Initialize the Git git init
+
+Step 4 : Add 1 file
+
+Step 5 : git status
+
+Step 6 : git commit -m "commit message"
+
+Step 7 : git status
+
+Step 8 : git remote add origin  git remote add origin https://github.com/DEEPAKKAMDE/JavaTrainingMorningBatch.git
+
+Step 9  : git remote show Origin 
+
+Step 10 : git push -u origin master
+
+
+
+
+
+
+
